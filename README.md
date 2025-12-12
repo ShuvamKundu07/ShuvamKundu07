@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 CSE Student | Aspiring Software Developer | AI & ML Enthusiast<br><br>I'm passionate about building efficient, user-friendly solutions using programming and modern technologies. I enjoy working on projects involving AI, machine learning, automation, and system-level programming. Currently, I’m improving my skills in C, Python, Data Structures, and Web Development, and actively working on innovative ideas that create real-world impact.<br><br>
+💻 CSE Student | Aspiring Software Developer | AI & ML Enthusiast<br><br>I'm passionate about building efficient, user-friendly solutions using programming and modern technologies. I enjoy working on projects involving AI, machine learning, automation, and system-level programming. Currently, I’m improving my skills in C++, Python, Data Structures, and Web Development, and actively working on innovative ideas that create real-world impact.<br><br>
 
 
 ## 🌐 Socials:
