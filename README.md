@@ -20,9 +20,9 @@ const shuvam = {
   name         : "Shuvam Kundu",
   title        : "Full Stack Developer & AI Engineer",
   education    : "B.Tech CSE (AI) — IEM, Kolkata | India 🇮🇳 (2024–Present)",
-  academics    : "Rank 2 in Department | CGPA: 9.38",
-  currentFocus : ["DSA Practice", "GenAI Solutions", "CarbonLensAI", "BharatGPT"],
-  achievements : ["GenAI COE Hackathon Winner", "MATLAB Fitness Hackathon Runners up"],
+  academics    : "CGPA: 9.38",
+  currentFocus : ["DSA Practice", "GenAI Solutions", "Multiple AI Tools"],
+  achievements : ["Finalist of JPMC CFG'26","3-hackathons win"],
   reachMe      : "kundushibam7@gmail.com",
 };
 ```
